@@ -1,2 +1,2 @@
 # MiniBlog
-My Blogging backend using Razor Pages
+My Blogging site using Razor Pages
